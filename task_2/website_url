@@ -1,1 +1,8 @@
+#basic task
 https://storage.googleapis.com/dareit_cloud_challange/index.html
+
+#bonus task 
+gsutil mb -c standard -l europe-central2 gs://dareit_cloud_challange_2
+gsutil iam ch allUsers:objectViewer gs://dareit_cloud_challange_2
+gsutil cp index.html gs://dareit_cloud_challange_2
+https://storage.googleapis.com/dareit_cloud_challange_2/index.html
