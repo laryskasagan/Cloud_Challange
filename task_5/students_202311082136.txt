@@ -1,0 +1,8 @@
+|id |lastname|firstname|email                  |city       |age|
+|---|--------|---------|-----------------------|-----------|---|
+|0  |Sagan   |Larysa   |laryskasagan@gmail.com |Cracow     |27 |
+|1  |Smith   |Jane     |jane.smith@yahoo.com   |New York   |25 |
+|2  |Johnson |Emily    |emily.johnson@gmail.com|Los Angeles|21 |
+|3  |Brown   |Sarah    |sarah.brown@yahoo.com  |Chicago    |22 |
+|4  |Davis   |Olivia   |olivia.davis@gmail.com |Houston    |23 |
+|5  |Wilson  |Sophia   |sophia.wilson@yahoo.com|Miami      |24 |
